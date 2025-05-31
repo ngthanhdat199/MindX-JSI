@@ -1,0 +1,23 @@
+/* Cú pháp CSS */
+selector {
+  property: value;
+}
+
+/* Thay đổi màu chữ trong thẻ p */
+p {
+  color: blue;
+  font-size: 16px;
+}
+
+/* Bố cục với CSS flex */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Bố cục với CSS Grid Layout*/
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
